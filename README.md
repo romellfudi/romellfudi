@@ -8,10 +8,10 @@
 
 <p align='center'>
   
-  <a href="https://wa.me/51952645566?text=Hi!%20Romell">
   <a href="https://www.twitter.com/romellfudi/">
     <img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
+  <a href="https://wa.me/51952645566?text=Hi!%20Romell">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/romelldominguez/">
