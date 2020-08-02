@@ -50,30 +50,13 @@ I'm really like development mobile apps, currently working at a small startup an
 
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:romllz489@gmail.com'>romllz489@gmail.com</a>
-</p>
-<p align='center'>
-  🔭 I’m currently working on BOOSTTAG E.I.R.L. ()
-</p>
-<p align='center'>
-  🌱 I’m currently learning Quantum Computing
-</p>
-<p align='center'>
-  👯 I’m looking to collaborate on Machine Learning
-</p>
-<p align='center'>
-  👯 I’m looking to collaborate on Machine Learning features
-</p>
-<p align='center'>
-  🤔 I’m looking for help with social activities 😅
-</p>
-<p align='center'>
-  💬 Ask me about Languages: 🇬🇧English, 🇨🇳Chinese, 🇵🇪Spanish & 🇵🇹Portuguese 
-</p>
-<p align='center'>
+  📫 How to reach me: <a href='mailto:romllz489@gmail.com'>romllz489@gmail.com</a><br>
+  🔭 I’m currently working on BOOSTTAG E.I.R.L. ()</br>
+  🌱 I’m currently learning Quantum Computing</br>
+  🤔 I’m looking for help with social activities 😅</br>
+  💬 Ask me about Languages: 🇬🇧English, 🇨🇳Chinese, 🇵🇪Spanish & 🇵🇹Portuguese </br>
   ⚡ Fun fact: I'm big fan of learning & coding Deep Learning
-</p>
-</br>
+</p>  
 <p align='center'>
   <a href="#"><img src="https://badges.pufler.dev/visits/romellfudi/romellfudi"></a> An extraordinary, enthusiastic runner 🏃
 </p>
