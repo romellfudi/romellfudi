@@ -38,7 +38,6 @@
 
 </p>  
 <p align='center'>
-
-  <a href="#"><img src="https://badges.pufler.dev/visits/romellfudi/romellfudi"></a> 🏃An extraordinary, enthusiastic runner 
-
+🏃An extraordinary, enthusiastic runner </br></br>
+  <a href="#"><img src="https://badges.pufler.dev/visits/romellfudi/romellfudi"></a> 
 </p>
