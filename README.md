@@ -30,14 +30,13 @@
 </p>
 
 <p align='center'>
-
   📫 How to reach me: <a href='mailto:romllz489@gmail.com'>romllz489@gmail.com</a><br>
+  🍱 My portfolio: <a href='http://portfolio.romellfudi.com/)'>portfolio.romellfudi.com</a><br>
   🔭 I’m currently working on BOOSTTAG E.I.R.L. ()</br>
   🌱 I’m currently learning Quantum Computing</br>
   🤔 I’m looking for help with social activities 😅</br>
   💬 Ask me about Languages: 🇬🇧English, 🇨🇳Chinese, 🇵🇪Spanish & 🇵🇹Portuguese </br>
   ⚡ Fun fact: I'm big fan of learning & coding Deep Learning
-
 </p>  
 <p align='center'>
 🏃An extraordinary, enthusiastic runner </br></br>
