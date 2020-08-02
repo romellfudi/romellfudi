@@ -3,12 +3,15 @@
 </h1>
 
 <p align='center'>
-  A software engineer and data scientist from Lima, Perú.
+  A Software engineer, Business intelligence analist and Data scientist from Lima, Perú.
 </p>
 
 <p align='center'>
   
   <a href="https://wa.me/51952645566?text=Hi!%20Romell">
+  <a href="https://www.twitter.com/romellfudi/">
+    <img src="https://img.shields.io/badge/twitter-%2300ACEE.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/romelldominguez/">
@@ -50,7 +53,7 @@ I'm really like development mobile apps, currently working at a small startup an
   📫 How to reach me: <a href='mailto:romllz489@gmail.com'>romllz489@gmail.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/romellfudi/romellfudi"></a> enthusiastic runner 
+  <a href="#"><img src="https://badges.pufler.dev/visits/romellfudi/romellfudi"></a> enthusiastic runner 🏃
 </p>
 
 
