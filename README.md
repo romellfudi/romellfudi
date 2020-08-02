@@ -53,19 +53,28 @@ I'm really like development mobile apps, currently working at a small startup an
   📫 How to reach me: <a href='mailto:romllz489@gmail.com'>romllz489@gmail.com</a>
 </p>
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/romellfudi/romellfudi"></a> enthusiastic runner 🏃
+  🔭 I’m currently working on BOOSTTAG E.I.R.L. ()
+</p>
+<p align='center'>
+  🌱 I’m currently learning Quantum Computing
+</p>
+<p align='center'>
+  👯 I’m looking to collaborate on Machine Learning
+</p>
+<p align='center'>
+  👯 I’m looking to collaborate on Machine Learning features
+</p>
+<p align='center'>
+  🤔 I’m looking for help with social activities 😅
+</p>
+<p align='center'>
+  💬 Ask me about Languages: 🇬🇧English, 🇨🇳Chinese, 🇵🇪Spanish & 🇵🇹Portuguese 
+</p>
+<p align='center'>
+  ⚡ Fun fact: I'm big fan of learning & coding Deep Learning
+</p>
+</br>
+<p align='center'>
+  <a href="#"><img src="https://badges.pufler.dev/visits/romellfudi/romellfudi"></a> An extraordinary, enthusiastic runner 🏃
 </p>
 
-
-**romellfudi/romellfudi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
