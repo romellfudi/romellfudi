@@ -24,8 +24,8 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=romellfudi&show_icons=true&count_private=true&theme=dark" width="350"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romellfudi&layout=compact" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=romellfudi&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romellfudi&layout=compact&theme=dark" width="350" ></a>
   
 </p>
 
@@ -44,6 +44,4 @@
   <a href="#"><img src="https://badges.pufler.dev/visits/romellfudi/romellfudi"></a> 
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romellfudi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="20" height="20"/></p>
