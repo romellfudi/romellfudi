@@ -51,10 +51,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com//romellfudi/FudiNFC/issues/1) in [romellfudi/FudiNFC](https://github.com//romellfudi/FudiNFC)
-2. 🗣 Commented on [#54](https://github.com//romellfudi/VoIpUSSD/issues/54) in [romellfudi/VoIpUSSD](https://github.com//romellfudi/VoIpUSSD)
-3. 🗣 Commented on [#7](https://github.com//jamesgeorge007/github-activity-readme/issues/7) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-4. 🎉 Merged PR [#2](https://github.com//contactBoostTag/MyApplication/pull/2) in [contactBoostTag/MyApplication](https://github.com//contactBoostTag/MyApplication)
-5. 💪 Opened PR [#2](https://github.com//contactBoostTag/MyApplication/pull/2) in [contactBoostTag/MyApplication](https://github.com//contactBoostTag/MyApplication)
+1. 🎉 Merged PR [#2](https://github.com//romellfudi/KotlinVoIpUSSD/pull/2) in [romellfudi/KotlinVoIpUSSD](https://github.com//romellfudi/KotlinVoIpUSSD)
+2. 💪 Opened PR [#2](https://github.com//romellfudi/KotlinVoIpUSSD/pull/2) in [romellfudi/KotlinVoIpUSSD](https://github.com//romellfudi/KotlinVoIpUSSD)
+3. ❌ Closed PR [#1](https://github.com//romellfudi/KotlinFudiPermission/pull/1) in [romellfudi/KotlinFudiPermission](https://github.com//romellfudi/KotlinFudiPermission)
+4. 💪 Opened PR [#1](https://github.com//romellfudi/KotlinFudiPermission/pull/1) in [romellfudi/KotlinFudiPermission](https://github.com//romellfudi/KotlinFudiPermission)
+5. ❌ Closed PR [#1](https://github.com//romellfudi/CPM-SANNA/pull/1) in [romellfudi/CPM-SANNA](https://github.com//romellfudi/CPM-SANNA)
 <!--END_SECTION:activity-->
 ---
