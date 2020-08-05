@@ -51,10 +51,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//romellfudi/KotlinVoIpUSSD/pull/2) in [romellfudi/KotlinVoIpUSSD](https://github.com//romellfudi/KotlinVoIpUSSD)
-2. 💪 Opened PR [#2](https://github.com//romellfudi/KotlinVoIpUSSD/pull/2) in [romellfudi/KotlinVoIpUSSD](https://github.com//romellfudi/KotlinVoIpUSSD)
-3. ❌ Closed PR [#1](https://github.com//romellfudi/KotlinFudiPermission/pull/1) in [romellfudi/KotlinFudiPermission](https://github.com//romellfudi/KotlinFudiPermission)
-4. 💪 Opened PR [#1](https://github.com//romellfudi/KotlinFudiPermission/pull/1) in [romellfudi/KotlinFudiPermission](https://github.com//romellfudi/KotlinFudiPermission)
-5. ❌ Closed PR [#1](https://github.com//romellfudi/CPM-SANNA/pull/1) in [romellfudi/CPM-SANNA](https://github.com//romellfudi/CPM-SANNA)
+1. 🗣 Commented on [#145](https://github.com//TheFinestArtist/FinestWebView-Android/issues/145) in [TheFinestArtist/FinestWebView-Android](https://github.com//TheFinestArtist/FinestWebView-Android)
+2. 🎉 Merged PR [#2](https://github.com//romellfudi/KotlinVoIpUSSD/pull/2) in [romellfudi/KotlinVoIpUSSD](https://github.com//romellfudi/KotlinVoIpUSSD)
+3. 💪 Opened PR [#2](https://github.com//romellfudi/KotlinVoIpUSSD/pull/2) in [romellfudi/KotlinVoIpUSSD](https://github.com//romellfudi/KotlinVoIpUSSD)
+4. ❌ Closed PR [#1](https://github.com//romellfudi/KotlinFudiPermission/pull/1) in [romellfudi/KotlinFudiPermission](https://github.com//romellfudi/KotlinFudiPermission)
+5. 💪 Opened PR [#1](https://github.com//romellfudi/KotlinFudiPermission/pull/1) in [romellfudi/KotlinFudiPermission](https://github.com//romellfudi/KotlinFudiPermission)
 <!--END_SECTION:activity-->
 ---
