@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hi there 👋 I'm Romell D.Z. 👨‍💻
+  Hi there 👋 I'm Romell D.Z. 福笛 👨‍💻
 </h1>
 
 <p align='center'>
@@ -33,7 +33,7 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:romllz489@gmail.com'>romllz489@gmail.com</a><br>
+  📫 How to reach me: <a href='mailto:rdominguez@boosttag.com'>rdominguez@boosttag.com</a>, <a href='mailto:romllz489@gmail.com'>romllz489@gmail.com</a><br>
   🍱 My portfolio: <a href='http://portfolio.romellfudi.com/'>portfolio.romellfudi.com</a><br>
   🔭 I’m currently working on BOOSTTAG E.I.R.L.</br>
   🌱 I’m currently learning Quantum Computing</br>
@@ -41,8 +41,7 @@
   💬 Ask me in: 🇬🇧English, 🇨🇳Chinese, 🇵🇹Portuguese & 🇵🇪Spanish</br>
   ⚡ Fun fact: I'm big fan of learning & coding Deep Learning
 </p>  
-<p align='center'>
-🏃An extraordinary, enthusiastic runner </br></br>
+<p align='center'> 🏃An extraordinary, enthusiastic runner👊 </br></br>
   <a href="#"><img src="https://badges.pufler.dev/visits/romellfudi/romellfudi"></a> 
 </p>
 
