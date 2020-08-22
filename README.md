@@ -50,10 +50,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com//romellfudi/VoIpUSSD/pull/55) in [romellfudi/VoIpUSSD](https://github.com//romellfudi/VoIpUSSD)
-2. 💪 Opened PR [#55](https://github.com//romellfudi/VoIpUSSD/pull/55) in [romellfudi/VoIpUSSD](https://github.com//romellfudi/VoIpUSSD)
-3. 🗣 Commented on [#145](https://github.com//TheFinestArtist/FinestWebView-Android/issues/145) in [TheFinestArtist/FinestWebView-Android](https://github.com//TheFinestArtist/FinestWebView-Android)
-4. 🎉 Merged PR [#2](https://github.com//romellfudi/KotlinVoIpUSSD/pull/2) in [romellfudi/KotlinVoIpUSSD](https://github.com//romellfudi/KotlinVoIpUSSD)
-5. 💪 Opened PR [#2](https://github.com//romellfudi/KotlinVoIpUSSD/pull/2) in [romellfudi/KotlinVoIpUSSD](https://github.com//romellfudi/KotlinVoIpUSSD)
+1. 🗣 Commented on [#53](https://github.com//romellfudi/VoIpUSSD/issues/53) in [romellfudi/VoIpUSSD](https://github.com//romellfudi/VoIpUSSD)
+2. 🗣 Commented on [#53](https://github.com//romellfudi/VoIpUSSD/issues/53) in [romellfudi/VoIpUSSD](https://github.com//romellfudi/VoIpUSSD)
+3. 🗣 Commented on [#53](https://github.com//romellfudi/VoIpUSSD/issues/53) in [romellfudi/VoIpUSSD](https://github.com//romellfudi/VoIpUSSD)
+4. 🗣 Commented on [#53](https://github.com//romellfudi/VoIpUSSD/issues/53) in [romellfudi/VoIpUSSD](https://github.com//romellfudi/VoIpUSSD)
+5. 🗣 Commented on [#53](https://github.com//romellfudi/VoIpUSSD/issues/53) in [romellfudi/VoIpUSSD](https://github.com//romellfudi/VoIpUSSD)
 <!--END_SECTION:activity-->
 ---
