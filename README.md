@@ -50,10 +50,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#17](https://github.com//romellfudi/markdown/pull/17) in [romellfudi/markdown](https://github.com//romellfudi/markdown)
-2. 💪 Opened PR [#17](https://github.com//romellfudi/markdown/pull/17) in [romellfudi/markdown](https://github.com//romellfudi/markdown)
-3. ❗️ Opened issue [#17](https://github.com//romellfudi/markdown/issues/17) in [romellfudi/markdown](https://github.com//romellfudi/markdown)
-4. ❗️ Closed issue [#16](https://github.com//romellfudi/markdown/issues/16) in [romellfudi/markdown](https://github.com//romellfudi/markdown)
-5. ❗️ Opened issue [#16](https://github.com//romellfudi/markdown/issues/16) in [romellfudi/markdown](https://github.com//romellfudi/markdown)
+1. 🎉 Merged PR [#2](https://github.com//romellfudi/CPM-SANNA/pull/2) in [romellfudi/CPM-SANNA](https://github.com//romellfudi/CPM-SANNA)
+2. 💪 Opened PR [#2](https://github.com//romellfudi/CPM-SANNA/pull/2) in [romellfudi/CPM-SANNA](https://github.com//romellfudi/CPM-SANNA)
+3. 🎉 Merged PR [#17](https://github.com//romellfudi/markdown/pull/17) in [romellfudi/markdown](https://github.com//romellfudi/markdown)
+4. 💪 Opened PR [#17](https://github.com//romellfudi/markdown/pull/17) in [romellfudi/markdown](https://github.com//romellfudi/markdown)
+5. ❗️ Opened issue [#17](https://github.com//romellfudi/markdown/issues/17) in [romellfudi/markdown](https://github.com//romellfudi/markdown)
 <!--END_SECTION:activity-->
 ---
