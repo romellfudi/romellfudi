@@ -50,10 +50,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#60](https://github.com//romellfudi/VoIpUSSD/issues/60) in [romellfudi/VoIpUSSD](https://github.com//romellfudi/VoIpUSSD)
-2. ❗️ Opened issue [#60](https://github.com//romellfudi/VoIpUSSD/issues/60) in [romellfudi/VoIpUSSD](https://github.com//romellfudi/VoIpUSSD)
-3. 🎉 Merged PR [#2](https://github.com//romellfudi/CPM-SANNA/pull/2) in [romellfudi/CPM-SANNA](https://github.com//romellfudi/CPM-SANNA)
-4. 💪 Opened PR [#2](https://github.com//romellfudi/CPM-SANNA/pull/2) in [romellfudi/CPM-SANNA](https://github.com//romellfudi/CPM-SANNA)
-5. 🎉 Merged PR [#17](https://github.com//romellfudi/markdown/pull/17) in [romellfudi/markdown](https://github.com//romellfudi/markdown)
+1. ❗️ Closed issue [#60](https://github.com/romellfudi/VoIpUSSD/issues/60) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+2. ❗️ Opened issue [#60](https://github.com/romellfudi/VoIpUSSD/issues/60) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+3. 🎉 Merged PR [#2](https://github.com/romellfudi/CPM-SANNA/pull/2) in [romellfudi/CPM-SANNA](https://github.com/romellfudi/CPM-SANNA)
+4. 💪 Opened PR [#2](https://github.com/romellfudi/CPM-SANNA/pull/2) in [romellfudi/CPM-SANNA](https://github.com/romellfudi/CPM-SANNA)
+5. 🎉 Merged PR [#17](https://github.com/romellfudi/markdown/pull/17) in [romellfudi/markdown](https://github.com/romellfudi/markdown)
 <!--END_SECTION:activity-->
 ---
