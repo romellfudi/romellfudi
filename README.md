@@ -29,8 +29,6 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=romellfudi&show_icons=true&count_private=true&theme=dark" width="350" height="150"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romellfudi&layout=compact&theme=dark" width="350" height="150"></a>
-  
-</p>
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:rdominguez@boosttag.com'>rdominguez@boosttag.com</a>, <a href='mailto:romllz489@gmail.com'>romllz489@gmail.com</a><br>
@@ -42,6 +40,8 @@
   ⚡ Fun fact: I'm big fan of learning & coding Deep Learning
 </p>  
 <p align='center'> 🏃An extraordinary, enthusiastic runner👊 </br></br>
+<i>Loved the tool? Please consider <a href="https://paypal.me/romellfudi/15">donating</a>  💸 to help it improve!</i></br>
+<a href="https://www.paypal.me/romellfudi/15"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor voip android library"/></a> </br></br>
   <a href="#"><img src="https://badges.pufler.dev/visits/romellfudi/romellfudi"></a> 
 </p>
 
