@@ -40,7 +40,7 @@
   ⚡ Fun fact: I'm big fan of learning & coding Deep Learning
 </p>  
 <p align='center'> 🏃An extraordinary, enthusiastic runner👊 </br></br>
-<i>Loved the tool? Please consider <a href="https://paypal.me/romellfudi/15">donating</a>  💸 to help it improve!</i></br>
+<i>Loved Coding Please consider <a href="https://paypal.me/romellfudi/15">donating</a>  💸 to help it improve!</i></br>
 <a href="https://www.paypal.me/romellfudi/15"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor voip android library"/></a> </br></br>
   <a href="#"><img src="https://badges.pufler.dev/visits/romellfudi/romellfudi"></a> 
 </p>
