@@ -50,10 +50,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#82](https://github.com/gradio-app/gradio/issues/82) in [gradio-app/gradio](https://github.com/gradio-app/gradio)
-2. ❗️ Closed issue [#63](https://github.com/romellfudi/VoIpUSSD/issues/63) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-3. 🗣 Commented on [#63](https://github.com/romellfudi/VoIpUSSD/issues/63) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-4. 🎉 Merged PR [#62](https://github.com/romellfudi/VoIpUSSD/pull/62) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-5. 💪 Opened PR [#62](https://github.com/romellfudi/VoIpUSSD/pull/62) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+1. 🎉 Merged PR [#3](https://github.com/romellfudi/FudiNFC/pull/3) in [romellfudi/FudiNFC](https://github.com/romellfudi/FudiNFC)
+2. 💪 Opened PR [#3](https://github.com/romellfudi/FudiNFC/pull/3) in [romellfudi/FudiNFC](https://github.com/romellfudi/FudiNFC)
+3. ❗️ Opened issue [#82](https://github.com/gradio-app/gradio/issues/82) in [gradio-app/gradio](https://github.com/gradio-app/gradio)
+4. ❗️ Closed issue [#63](https://github.com/romellfudi/VoIpUSSD/issues/63) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+5. 🗣 Commented on [#63](https://github.com/romellfudi/VoIpUSSD/issues/63) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
 <!--END_SECTION:activity-->
 ---
