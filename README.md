@@ -50,10 +50,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/romellfudi/AndroidLibProject/pull/1) in [romellfudi/AndroidLibProject](https://github.com/romellfudi/AndroidLibProject)
-2. 💪 Opened PR [#1](https://github.com/romellfudi/AndroidLibProject/pull/1) in [romellfudi/AndroidLibProject](https://github.com/romellfudi/AndroidLibProject)
-3. 🎉 Merged PR [#3](https://github.com/romellfudi/FudiNFC/pull/3) in [romellfudi/FudiNFC](https://github.com/romellfudi/FudiNFC)
-4. 💪 Opened PR [#3](https://github.com/romellfudi/FudiNFC/pull/3) in [romellfudi/FudiNFC](https://github.com/romellfudi/FudiNFC)
-5. ❗️ Opened issue [#82](https://github.com/gradio-app/gradio/issues/82) in [gradio-app/gradio](https://github.com/gradio-app/gradio)
+1. 🎉 Merged PR [#1](https://github.com/romellfudi/ImageProcessing/pull/1) in [romellfudi/ImageProcessing](https://github.com/romellfudi/ImageProcessing)
+2. 🎉 Merged PR [#1](https://github.com/romellfudi/AndroidLibProject/pull/1) in [romellfudi/AndroidLibProject](https://github.com/romellfudi/AndroidLibProject)
+3. 💪 Opened PR [#1](https://github.com/romellfudi/AndroidLibProject/pull/1) in [romellfudi/AndroidLibProject](https://github.com/romellfudi/AndroidLibProject)
+4. 🎉 Merged PR [#3](https://github.com/romellfudi/FudiNFC/pull/3) in [romellfudi/FudiNFC](https://github.com/romellfudi/FudiNFC)
+5. 💪 Opened PR [#3](https://github.com/romellfudi/FudiNFC/pull/3) in [romellfudi/FudiNFC](https://github.com/romellfudi/FudiNFC)
 <!--END_SECTION:activity-->
 ---
