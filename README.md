@@ -50,10 +50,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/romellfudi/AndroidLibProject/pull/3) in [romellfudi/AndroidLibProject](https://github.com/romellfudi/AndroidLibProject)
-2. 💪 Opened PR [#3](https://github.com/romellfudi/AndroidLibProject/pull/3) in [romellfudi/AndroidLibProject](https://github.com/romellfudi/AndroidLibProject)
-3. ❌ Closed PR [#2](https://github.com/romellfudi/AndroidLibProject/pull/2) in [romellfudi/AndroidLibProject](https://github.com/romellfudi/AndroidLibProject)
-4. 💪 Opened PR [#2](https://github.com/romellfudi/AndroidLibProject/pull/2) in [romellfudi/AndroidLibProject](https://github.com/romellfudi/AndroidLibProject)
-5. 🎉 Merged PR [#66](https://github.com/romellfudi/VoIpUSSD/pull/66) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+1. ❗️ Closed issue [#67](https://github.com/romellfudi/VoIpUSSD/issues/67) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+2. 🗣 Commented on [#67](https://github.com/romellfudi/VoIpUSSD/issues/67) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+3. ❗️ Reopened issue [#67](https://github.com/romellfudi/VoIpUSSD/issues/67) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+4. ❗️ Closed issue [#67](https://github.com/romellfudi/VoIpUSSD/issues/67) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+5. 🗣 Commented on [#67](https://github.com/romellfudi/VoIpUSSD/issues/67) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
 <!--END_SECTION:activity-->
 ---
