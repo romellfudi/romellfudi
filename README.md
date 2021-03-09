@@ -50,10 +50,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#67](https://github.com/romellfudi/VoIpUSSD/issues/67) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-2. 🗣 Commented on [#67](https://github.com/romellfudi/VoIpUSSD/issues/67) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-3. ❗️ Reopened issue [#67](https://github.com/romellfudi/VoIpUSSD/issues/67) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-4. ❗️ Closed issue [#67](https://github.com/romellfudi/VoIpUSSD/issues/67) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-5. 🗣 Commented on [#67](https://github.com/romellfudi/VoIpUSSD/issues/67) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+1. 🎉 Merged PR [#68](https://github.com/romellfudi/VoIpUSSD/pull/68) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+2. 💪 Opened PR [#68](https://github.com/romellfudi/VoIpUSSD/pull/68) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+3. ❗️ Closed issue [#67](https://github.com/romellfudi/VoIpUSSD/issues/67) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+4. 🗣 Commented on [#67](https://github.com/romellfudi/VoIpUSSD/issues/67) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+5. ❗️ Reopened issue [#67](https://github.com/romellfudi/VoIpUSSD/issues/67) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
 <!--END_SECTION:activity-->
 ---
