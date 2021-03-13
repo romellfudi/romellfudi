@@ -50,10 +50,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#68](https://github.com/romellfudi/VoIpUSSD/pull/68) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-2. 💪 Opened PR [#68](https://github.com/romellfudi/VoIpUSSD/pull/68) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-3. ❗️ Closed issue [#67](https://github.com/romellfudi/VoIpUSSD/issues/67) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-4. 🗣 Commented on [#67](https://github.com/romellfudi/VoIpUSSD/issues/67) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-5. ❗️ Reopened issue [#67](https://github.com/romellfudi/VoIpUSSD/issues/67) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+1. 🎉 Merged PR [#6](https://github.com/romellfudi/FudiPermission/pull/6) in [romellfudi/FudiPermission](https://github.com/romellfudi/FudiPermission)
+2. 💪 Opened PR [#6](https://github.com/romellfudi/FudiPermission/pull/6) in [romellfudi/FudiPermission](https://github.com/romellfudi/FudiPermission)
+3. 🎉 Merged PR [#1](https://github.com/romellfudi/FudiSharePreference/pull/1) in [romellfudi/FudiSharePreference](https://github.com/romellfudi/FudiSharePreference)
+4. 💪 Opened PR [#1](https://github.com/romellfudi/FudiSharePreference/pull/1) in [romellfudi/FudiSharePreference](https://github.com/romellfudi/FudiSharePreference)
+5. 🎉 Merged PR [#68](https://github.com/romellfudi/VoIpUSSD/pull/68) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
 <!--END_SECTION:activity-->
 ---
