@@ -50,10 +50,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/romellfudi/FudiSharePreference/pull/4) in [romellfudi/FudiSharePreference](https://github.com/romellfudi/FudiSharePreference)
-2. 💪 Opened PR [#4](https://github.com/romellfudi/FudiSharePreference/pull/4) in [romellfudi/FudiSharePreference](https://github.com/romellfudi/FudiSharePreference)
-3. 🎉 Merged PR [#3](https://github.com/romellfudi/FudiSharePreference/pull/3) in [romellfudi/FudiSharePreference](https://github.com/romellfudi/FudiSharePreference)
-4. 💪 Opened PR [#3](https://github.com/romellfudi/FudiSharePreference/pull/3) in [romellfudi/FudiSharePreference](https://github.com/romellfudi/FudiSharePreference)
-5. 🎉 Merged PR [#2](https://github.com/romellfudi/FudiSharePreference/pull/2) in [romellfudi/FudiSharePreference](https://github.com/romellfudi/FudiSharePreference)
+1. 🗣 Commented on [#2506](https://github.com/firebase/firebase-android-sdk/issues/2506) in [firebase/firebase-android-sdk](https://github.com/firebase/firebase-android-sdk)
+2. 🎉 Merged PR [#4](https://github.com/romellfudi/FudiSharePreference/pull/4) in [romellfudi/FudiSharePreference](https://github.com/romellfudi/FudiSharePreference)
+3. 💪 Opened PR [#4](https://github.com/romellfudi/FudiSharePreference/pull/4) in [romellfudi/FudiSharePreference](https://github.com/romellfudi/FudiSharePreference)
+4. 🎉 Merged PR [#3](https://github.com/romellfudi/FudiSharePreference/pull/3) in [romellfudi/FudiSharePreference](https://github.com/romellfudi/FudiSharePreference)
+5. 💪 Opened PR [#3](https://github.com/romellfudi/FudiSharePreference/pull/3) in [romellfudi/FudiSharePreference](https://github.com/romellfudi/FudiSharePreference)
 <!--END_SECTION:activity-->
 ---
