@@ -34,12 +34,12 @@
   📫 How to reach me: <a href='mailto:rdominguez@boosttag.com'>rdominguez@boosttag.com</a>, <a href='mailto:romllz489@gmail.com'>romllz489@gmail.com</a><br>
   🍱 My portfolio: <a href='http://portfolio.romellfudi.com/'>portfolio.romellfudi.com</a><br>
   🔭 I’m currently working on BOOSTTAG E.I.R.L.</br>
-  🌱 I’m currently learning Quantum Computing</br>
+  🌱 I’m currently learning AutoML</br>
   🤔 I’m looking for help with social activities 😅</br>
   💬 Ask me in: 🇬🇧English, 🇨🇳Chinese, 🇵🇹Portuguese & 🇵🇪Spanish</br>
   ⚡ Fun fact: I'm big fan of learning & coding Deep Learning
 </p>  
-<p align='center'> 🏃An extraordinary, enthusiastic runner👊 </br></br>
+<p align='center'> 🏃An extraordinary, enthusiastic runner👊 </br></br> 🎧 Spotify Playing </br> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=romell.fudi&cover_image=true&theme=novatorem" title="conda"/> </br></br>
 <i>Loved Coding Please consider <a href="https://paypal.me/romellfudi/15">donating</a>  💸 to help it improve!</i></br>
 <a href="https://www.paypal.me/romellfudi/15"><img src="https://img.shields.io/badge/support-PayPal-blue?logo=PayPal&style=flat-square&label=Donate" alt="sponsor voip android library"/></a> </br></br>
   <a href="#"><img src="https://badges.pufler.dev/visits/romellfudi/romellfudi"></a> 
