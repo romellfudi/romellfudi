@@ -57,3 +57,5 @@
 5. 🎉 Merged PR [#3](https://github.com/romellfudi/FudiSharePreference/pull/3) in [romellfudi/FudiSharePreference](https://github.com/romellfudi/FudiSharePreference)
 <!--END_SECTION:activity-->
 ---
+
+<p align="center"> <img src="/charts/skyline.gif" alt="skyline">  </p>
