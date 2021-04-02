@@ -50,11 +50,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#32](https://github.com/PHELAT/Tedu/issues/32) in [PHELAT/Tedu](https://github.com/PHELAT/Tedu)
-2. 🗣 Commented on [#2506](https://github.com/firebase/firebase-android-sdk/issues/2506) in [firebase/firebase-android-sdk](https://github.com/firebase/firebase-android-sdk)
-3. 🎉 Merged PR [#4](https://github.com/romellfudi/FudiSharePreference/pull/4) in [romellfudi/FudiSharePreference](https://github.com/romellfudi/FudiSharePreference)
-4. 💪 Opened PR [#4](https://github.com/romellfudi/FudiSharePreference/pull/4) in [romellfudi/FudiSharePreference](https://github.com/romellfudi/FudiSharePreference)
-5. 🎉 Merged PR [#3](https://github.com/romellfudi/FudiSharePreference/pull/3) in [romellfudi/FudiSharePreference](https://github.com/romellfudi/FudiSharePreference)
+1. 🎉 Merged PR [#7](https://github.com/romellfudi/FudiPermission/pull/7) in [romellfudi/FudiPermission](https://github.com/romellfudi/FudiPermission)
+2. 💪 Opened PR [#7](https://github.com/romellfudi/FudiPermission/pull/7) in [romellfudi/FudiPermission](https://github.com/romellfudi/FudiPermission)
+3. 🎉 Merged PR [#5](https://github.com/romellfudi/FudiSharePreference/pull/5) in [romellfudi/FudiSharePreference](https://github.com/romellfudi/FudiSharePreference)
+4. 💪 Opened PR [#5](https://github.com/romellfudi/FudiSharePreference/pull/5) in [romellfudi/FudiSharePreference](https://github.com/romellfudi/FudiSharePreference)
+5. ❗️ Opened issue [#32](https://github.com/PHELAT/Tedu/issues/32) in [PHELAT/Tedu](https://github.com/PHELAT/Tedu)
 <!--END_SECTION:activity-->
 ---
 
