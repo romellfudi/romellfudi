@@ -50,11 +50,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/romellfudi/FudiPermission/pull/7) in [romellfudi/FudiPermission](https://github.com/romellfudi/FudiPermission)
-2. 💪 Opened PR [#7](https://github.com/romellfudi/FudiPermission/pull/7) in [romellfudi/FudiPermission](https://github.com/romellfudi/FudiPermission)
-3. 🎉 Merged PR [#5](https://github.com/romellfudi/FudiSharePreference/pull/5) in [romellfudi/FudiSharePreference](https://github.com/romellfudi/FudiSharePreference)
-4. 💪 Opened PR [#5](https://github.com/romellfudi/FudiSharePreference/pull/5) in [romellfudi/FudiSharePreference](https://github.com/romellfudi/FudiSharePreference)
-5. ❗️ Opened issue [#32](https://github.com/PHELAT/Tedu/issues/32) in [PHELAT/Tedu](https://github.com/PHELAT/Tedu)
+1. 🎉 Merged PR [#69](https://github.com/romellfudi/VoIpUSSD/pull/69) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+2. 💪 Opened PR [#69](https://github.com/romellfudi/VoIpUSSD/pull/69) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+3. 🎉 Merged PR [#7](https://github.com/romellfudi/FudiPermission/pull/7) in [romellfudi/FudiPermission](https://github.com/romellfudi/FudiPermission)
+4. 💪 Opened PR [#7](https://github.com/romellfudi/FudiPermission/pull/7) in [romellfudi/FudiPermission](https://github.com/romellfudi/FudiPermission)
+5. 🎉 Merged PR [#5](https://github.com/romellfudi/FudiSharePreference/pull/5) in [romellfudi/FudiSharePreference](https://github.com/romellfudi/FudiSharePreference)
 <!--END_SECTION:activity-->
 ---
 
