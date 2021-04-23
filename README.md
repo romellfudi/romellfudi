@@ -50,11 +50,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/alex04072000/FuSta/issues/1) in [alex04072000/FuSta](https://github.com/alex04072000/FuSta)
-2. 🗣 Commented on [#1](https://github.com/alex04072000/FuSta/issues/1) in [alex04072000/FuSta](https://github.com/alex04072000/FuSta)
-3. 🗣 Commented on [#73](https://github.com/romellfudi/VoIpUSSD/issues/73) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-4. 🗣 Commented on [#73](https://github.com/romellfudi/VoIpUSSD/issues/73) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-5. 🗣 Commented on [#1839](https://github.com/googlecolab/colabtools/issues/1839) in [googlecolab/colabtools](https://github.com/googlecolab/colabtools)
+1. 🎉 Merged PR [#75](https://github.com/romellfudi/VoIpUSSD/pull/75) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+2. 🎉 Merged PR [#74](https://github.com/romellfudi/VoIpUSSD/pull/74) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+3. 🗣 Commented on [#1](https://github.com/alex04072000/FuSta/issues/1) in [alex04072000/FuSta](https://github.com/alex04072000/FuSta)
+4. 🗣 Commented on [#1](https://github.com/alex04072000/FuSta/issues/1) in [alex04072000/FuSta](https://github.com/alex04072000/FuSta)
+5. 🗣 Commented on [#73](https://github.com/romellfudi/VoIpUSSD/issues/73) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
 <!--END_SECTION:activity-->
 ---
 
