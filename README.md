@@ -33,7 +33,7 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:rdominguez@boosttag.com'>rdominguez@boosttag.com</a>, <a href='mailto:romllz489@gmail.com'>romllz489@gmail.com</a><br>
   🍱 My portfolio: <a href='http://portfolio.romellfudi.com/'>portfolio.romellfudi.com</a><br>
-  🔭 I’m currently working on Globant</br>
+  🔭 I’m currently working on <a href='https://www.globant.com/'>Globant</a></br>
   🌱 I’m currently learning Pipelines</br>
   🤔 I’m looking for help with social activities 😅</br>
   💬 Ask me in: 🇬🇧English, 🇨🇳Chinese, 🇵🇹Portuguese & 🇵🇪Spanish</br>
