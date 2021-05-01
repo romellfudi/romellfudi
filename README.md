@@ -33,8 +33,8 @@
 <p align='center'>
   📫 How to reach me: <a href='mailto:rdominguez@boosttag.com'>rdominguez@boosttag.com</a>, <a href='mailto:romllz489@gmail.com'>romllz489@gmail.com</a><br>
   🍱 My portfolio: <a href='http://portfolio.romellfudi.com/'>portfolio.romellfudi.com</a><br>
-  🔭 I’m currently working on BOOSTTAG E.I.R.L.</br>
-  🌱 I’m currently learning AutoML</br>
+  🔭 I’m currently working on Globant</br>
+  🌱 I’m currently learning Pipelines</br>
   🤔 I’m looking for help with social activities 😅</br>
   💬 Ask me in: 🇬🇧English, 🇨🇳Chinese, 🇵🇹Portuguese & 🇵🇪Spanish</br>
   ⚡ Fun fact: I'm big fan of learning & coding Deep Learning
