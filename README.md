@@ -31,7 +31,11 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romellfudi&layout=compact&theme=dark" width="350" height="150"></a>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:rdominguez@boosttag.com'>rdominguez@boosttag.com</a>, <a href='mailto:romllz489@gmail.com'>romllz489@gmail.com</a><br>
+  📫 How to reach me: 
+  <a href='mailto:09200171@unmsm.edu.pe'>09200171@unmsm.edu.pe</a>,
+<!--   <a href='mailto:romell.dominguez@globant.com'>romell.dominguez@globant.com</a>, -->
+<!--   <a href='mailto:rdominguez@boosttag.com'>rdominguez@boosttag.com</a>, -->
+  <a href='mailto:romllz489@gmail.com'>romllz489@gmail.com</a><br>
   🍱 My portfolio: <a href='http://portfolio.romellfudi.com/'>portfolio.romellfudi.com</a><br>
   🔭 I’m currently working on <a href='https://www.globant.com/'>Globant</a></br>
   🌱 I’m currently learning Pipelines</br>
