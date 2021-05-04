@@ -54,11 +54,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#73](https://github.com/romellfudi/VoIpUSSD/issues/73) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-2. 🗣 Commented on [#32](https://github.com/PHELAT/Tedu/issues/32) in [PHELAT/Tedu](https://github.com/PHELAT/Tedu)
-3. ❗️ Closed issue [#32](https://github.com/PHELAT/Tedu/issues/32) in [PHELAT/Tedu](https://github.com/PHELAT/Tedu)
-4. 🎉 Merged PR [#75](https://github.com/romellfudi/VoIpUSSD/pull/75) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-5. 🎉 Merged PR [#74](https://github.com/romellfudi/VoIpUSSD/pull/74) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+1. 🎉 Merged PR [#76](https://github.com/romellfudi/VoIpUSSD/pull/76) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+2. 💪 Opened PR [#76](https://github.com/romellfudi/VoIpUSSD/pull/76) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+3. ❗️ Closed issue [#73](https://github.com/romellfudi/VoIpUSSD/issues/73) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+4. 🗣 Commented on [#32](https://github.com/PHELAT/Tedu/issues/32) in [PHELAT/Tedu](https://github.com/PHELAT/Tedu)
+5. ❗️ Closed issue [#32](https://github.com/PHELAT/Tedu/issues/32) in [PHELAT/Tedu](https://github.com/PHELAT/Tedu)
 <!--END_SECTION:activity-->
 ---
 
