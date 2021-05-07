@@ -54,11 +54,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1698](https://github.com/public-apis/public-apis/pull/1698) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
-2. 🎉 Merged PR [#76](https://github.com/romellfudi/VoIpUSSD/pull/76) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-3. 💪 Opened PR [#76](https://github.com/romellfudi/VoIpUSSD/pull/76) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-4. ❗️ Closed issue [#73](https://github.com/romellfudi/VoIpUSSD/issues/73) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-5. 🗣 Commented on [#32](https://github.com/PHELAT/Tedu/issues/32) in [PHELAT/Tedu](https://github.com/PHELAT/Tedu)
+1. ❗️ Closed issue [#4](https://github.com/romellfudi/FudiNFC/issues/4) in [romellfudi/FudiNFC](https://github.com/romellfudi/FudiNFC)
+2. 🗣 Commented on [#4](https://github.com/romellfudi/FudiNFC/issues/4) in [romellfudi/FudiNFC](https://github.com/romellfudi/FudiNFC)
+3. 🗣 Commented on [#4](https://github.com/romellfudi/FudiNFC/issues/4) in [romellfudi/FudiNFC](https://github.com/romellfudi/FudiNFC)
+4. 🗣 Commented on [#4](https://github.com/romellfudi/FudiNFC/issues/4) in [romellfudi/FudiNFC](https://github.com/romellfudi/FudiNFC)
+5. 🗣 Commented on [#4](https://github.com/romellfudi/FudiNFC/issues/4) in [romellfudi/FudiNFC](https://github.com/romellfudi/FudiNFC)
 <!--END_SECTION:activity-->
 ---
 
