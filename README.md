@@ -54,11 +54,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/romellfudi/FudiNFC/issues/4) in [romellfudi/FudiNFC](https://github.com/romellfudi/FudiNFC)
-2. 🗣 Commented on [#4](https://github.com/romellfudi/FudiNFC/issues/4) in [romellfudi/FudiNFC](https://github.com/romellfudi/FudiNFC)
-3. 🗣 Commented on [#4](https://github.com/romellfudi/FudiNFC/issues/4) in [romellfudi/FudiNFC](https://github.com/romellfudi/FudiNFC)
-4. 🗣 Commented on [#4](https://github.com/romellfudi/FudiNFC/issues/4) in [romellfudi/FudiNFC](https://github.com/romellfudi/FudiNFC)
-5. 🗣 Commented on [#4](https://github.com/romellfudi/FudiNFC/issues/4) in [romellfudi/FudiNFC](https://github.com/romellfudi/FudiNFC)
+1. 🎉 Merged PR [#78](https://github.com/romellfudi/VoIpUSSD/pull/78) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+2. 💪 Opened PR [#78](https://github.com/romellfudi/VoIpUSSD/pull/78) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+3. 🎉 Merged PR [#77](https://github.com/romellfudi/VoIpUSSD/pull/77) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+4. 💪 Opened PR [#77](https://github.com/romellfudi/VoIpUSSD/pull/77) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+5. ❗️ Closed issue [#4](https://github.com/romellfudi/FudiNFC/issues/4) in [romellfudi/FudiNFC](https://github.com/romellfudi/FudiNFC)
 <!--END_SECTION:activity-->
 ---
 
