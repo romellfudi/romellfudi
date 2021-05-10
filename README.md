@@ -54,11 +54,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#83](https://github.com/romellfudi/VoIpUSSD/pull/83) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-2. 💪 Opened PR [#83](https://github.com/romellfudi/VoIpUSSD/pull/83) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-3. 🎉 Merged PR [#82](https://github.com/romellfudi/VoIpUSSD/pull/82) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-4. 💪 Opened PR [#82](https://github.com/romellfudi/VoIpUSSD/pull/82) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-5. 🎉 Merged PR [#81](https://github.com/romellfudi/VoIpUSSD/pull/81) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+1. 🎉 Merged PR [#8](https://github.com/romellfudi/FudiPermission/pull/8) in [romellfudi/FudiPermission](https://github.com/romellfudi/FudiPermission)
+2. 💪 Opened PR [#8](https://github.com/romellfudi/FudiPermission/pull/8) in [romellfudi/FudiPermission](https://github.com/romellfudi/FudiPermission)
+3. 🎉 Merged PR [#83](https://github.com/romellfudi/VoIpUSSD/pull/83) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+4. 💪 Opened PR [#83](https://github.com/romellfudi/VoIpUSSD/pull/83) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+5. 🎉 Merged PR [#82](https://github.com/romellfudi/VoIpUSSD/pull/82) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
 <!--END_SECTION:activity-->
 ---
 
