@@ -14,6 +14,9 @@
   <a href="https://wa.me/51952645566?text=Hi!%20Romell">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;
+  <a href="https://android-arsenal.com/user/romellfudi">
+    <img src="https://img.shields.io/badge/ANDROID_ARSENAL-%23333333.svg?&style=for-the-badge&logo=android&logoColor=green" />    
+  </a>&nbsp;&nbsp;
 <!--   <a href="https://telegram.me/romellfudi/">
     <img src="https://img.shields.io/badge/telegram-%2300ACEE.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> -->
   </a>&nbsp;&nbsp;
