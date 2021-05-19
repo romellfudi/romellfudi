@@ -57,11 +57,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1698](https://github.com/public-apis/public-apis/issues/1698) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
-2. 🎉 Merged PR [#8](https://github.com/romellfudi/FudiPermission/pull/8) in [romellfudi/FudiPermission](https://github.com/romellfudi/FudiPermission)
-3. 💪 Opened PR [#8](https://github.com/romellfudi/FudiPermission/pull/8) in [romellfudi/FudiPermission](https://github.com/romellfudi/FudiPermission)
-4. 🎉 Merged PR [#83](https://github.com/romellfudi/VoIpUSSD/pull/83) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-5. 💪 Opened PR [#83](https://github.com/romellfudi/VoIpUSSD/pull/83) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+1. ❗️ Closed issue [#183](https://github.com/TheFinestArtist/FinestWebView-Android/issues/183) in [TheFinestArtist/FinestWebView-Android](https://github.com/TheFinestArtist/FinestWebView-Android)
+2. 🗣 Commented on [#1698](https://github.com/public-apis/public-apis/issues/1698) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+3. 🎉 Merged PR [#8](https://github.com/romellfudi/FudiPermission/pull/8) in [romellfudi/FudiPermission](https://github.com/romellfudi/FudiPermission)
+4. 💪 Opened PR [#8](https://github.com/romellfudi/FudiPermission/pull/8) in [romellfudi/FudiPermission](https://github.com/romellfudi/FudiPermission)
+5. 🎉 Merged PR [#83](https://github.com/romellfudi/VoIpUSSD/pull/83) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
 <!--END_SECTION:activity-->
 ---
 
