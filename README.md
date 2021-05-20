@@ -41,7 +41,7 @@
   <a href='mailto:romllz489@gmail.com'>romllz489@gmail.com</a><br>
   🍱 My portfolio: <a href='http://portfolio.romellfudi.com/'>portfolio.romellfudi.com</a><br>
   🔭 I’m currently working on <a href='https://www.globant.com/'>Globant</a></br>
-  🌱 I’m currently learning AutoML Pipelines</br>
+  🌱 Nowadays, I’m learning AutoML Pipelines</br>
   🤔 I’m looking for help with social activities 😅</br>
   💬 Ask me in: 🇬🇧 English, 🇨🇳 Chinese, 🇵🇹 Portuguese & 🇵🇪 Spanish</br>
   ⚡ Fun fact: I'm big fan of learning & coding Deep Learning
