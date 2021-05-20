@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Software engineer, Business intelligence analytics and Data scientist from Lima, Perú.
+  A Software engineer, Business intelligence analyst and Data scientist from Lima, Perú.
 </p>
 
 <p align='center'>
