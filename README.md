@@ -57,11 +57,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#85](https://github.com/romellfudi/VoIpUSSD/pull/85) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-2. 💪 Opened PR [#85](https://github.com/romellfudi/VoIpUSSD/pull/85) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-3. 🎉 Merged PR [#84](https://github.com/romellfudi/VoIpUSSD/pull/84) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-4. 💪 Opened PR [#84](https://github.com/romellfudi/VoIpUSSD/pull/84) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-5. ❗️ Closed issue [#183](https://github.com/TheFinestArtist/FinestWebView-Android/issues/183) in [TheFinestArtist/FinestWebView-Android](https://github.com/TheFinestArtist/FinestWebView-Android)
+1. 🎉 Merged PR [#86](https://github.com/romellfudi/VoIpUSSD/pull/86) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+2. 🗣 Commented on [#86](https://github.com/romellfudi/VoIpUSSD/issues/86) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+3. 🗣 Commented on [#1059](https://github.com/twintproject/twint/issues/1059) in [twintproject/twint](https://github.com/twintproject/twint)
+4. 🗣 Commented on [#1059](https://github.com/twintproject/twint/issues/1059) in [twintproject/twint](https://github.com/twintproject/twint)
+5. 🗣 Commented on [#1059](https://github.com/twintproject/twint/issues/1059) in [twintproject/twint](https://github.com/twintproject/twint)
 <!--END_SECTION:activity-->
 ---
 
