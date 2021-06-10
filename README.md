@@ -57,11 +57,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#88](https://github.com/romellfudi/VoIpUSSD/pull/88) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-2. 💪 Opened PR [#88](https://github.com/romellfudi/VoIpUSSD/pull/88) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-3. 🎉 Merged PR [#2](https://github.com/romellfudi/ImageProcessing/pull/2) in [romellfudi/ImageProcessing](https://github.com/romellfudi/ImageProcessing)
-4. 🎉 Merged PR [#3](https://github.com/romellfudi/ImageProcessing/pull/3) in [romellfudi/ImageProcessing](https://github.com/romellfudi/ImageProcessing)
-5. 🎉 Merged PR [#3](https://github.com/romellfudi/dataset_currency/pull/3) in [romellfudi/dataset_currency](https://github.com/romellfudi/dataset_currency)
+1. 🎉 Merged PR [#89](https://github.com/romellfudi/VoIpUSSD/pull/89) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+2. 🗣 Commented on [#89](https://github.com/romellfudi/VoIpUSSD/issues/89) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+3. 🎉 Merged PR [#4](https://github.com/romellfudi/ImageProcessing/pull/4) in [romellfudi/ImageProcessing](https://github.com/romellfudi/ImageProcessing)
+4. 🎉 Merged PR [#88](https://github.com/romellfudi/VoIpUSSD/pull/88) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+5. 💪 Opened PR [#88](https://github.com/romellfudi/VoIpUSSD/pull/88) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
 <!--END_SECTION:activity-->
 ---
 
