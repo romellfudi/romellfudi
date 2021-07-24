@@ -57,11 +57,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#92](https://github.com/romellfudi/VoIpUSSD/pull/92) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-2. 💪 Opened PR [#92](https://github.com/romellfudi/VoIpUSSD/pull/92) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-3. 🗣 Commented on [#117](https://github.com/mars885/gamedge/issues/117) in [mars885/gamedge](https://github.com/mars885/gamedge)
-4. 🗣 Commented on [#117](https://github.com/mars885/gamedge/issues/117) in [mars885/gamedge](https://github.com/mars885/gamedge)
-5. 🎉 Merged PR [#91](https://github.com/romellfudi/VoIpUSSD/pull/91) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+1. 💪 Opened PR [#1890](https://github.com/public-apis/public-apis/pull/1890) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+2. 💪 Opened PR [#1889](https://github.com/public-apis/public-apis/pull/1889) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+3. 💪 Opened PR [#1887](https://github.com/public-apis/public-apis/pull/1887) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+4. 🗣 Commented on [#93](https://github.com/romellfudi/VoIpUSSD/issues/93) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+5. 🎉 Merged PR [#92](https://github.com/romellfudi/VoIpUSSD/pull/92) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
 <!--END_SECTION:activity-->
 ---
 
