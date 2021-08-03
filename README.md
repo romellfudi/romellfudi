@@ -57,11 +57,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/romellfudi/FudiAnnotation/pull/2) in [romellfudi/FudiAnnotation](https://github.com/romellfudi/FudiAnnotation)
-2. 💪 Opened PR [#2](https://github.com/romellfudi/FudiAnnotation/pull/2) in [romellfudi/FudiAnnotation](https://github.com/romellfudi/FudiAnnotation)
-3. ❌ Closed PR [#1](https://github.com/romellfudi/FudiAnnotation/pull/1) in [romellfudi/FudiAnnotation](https://github.com/romellfudi/FudiAnnotation)
-4. 💪 Opened PR [#1](https://github.com/romellfudi/FudiAnnotation/pull/1) in [romellfudi/FudiAnnotation](https://github.com/romellfudi/FudiAnnotation)
-5. 🗣 Commented on [#1890](https://github.com/public-apis/public-apis/issues/1890) in [public-apis/public-apis](https://github.com/public-apis/public-apis)
+1. 🗣 Commented on [#93](https://github.com/romellfudi/VoIpUSSD/issues/93) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
+2. 🎉 Merged PR [#2](https://github.com/romellfudi/FudiAnnotation/pull/2) in [romellfudi/FudiAnnotation](https://github.com/romellfudi/FudiAnnotation)
+3. 💪 Opened PR [#2](https://github.com/romellfudi/FudiAnnotation/pull/2) in [romellfudi/FudiAnnotation](https://github.com/romellfudi/FudiAnnotation)
+4. ❌ Closed PR [#1](https://github.com/romellfudi/FudiAnnotation/pull/1) in [romellfudi/FudiAnnotation](https://github.com/romellfudi/FudiAnnotation)
+5. 💪 Opened PR [#1](https://github.com/romellfudi/FudiAnnotation/pull/1) in [romellfudi/FudiAnnotation](https://github.com/romellfudi/FudiAnnotation)
 <!--END_SECTION:activity-->
 ---
 
