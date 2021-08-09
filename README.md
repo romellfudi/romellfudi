@@ -44,7 +44,7 @@
   🌱 Nowadays, I’m learning AutoML Pipelines</br>
   🤔 I’m looking for help with social activities 😅</br>
   💬 Ask me in: 🇬🇧 English, 🇨🇳 Chinese, 🇵🇹 Portuguese & 🇵🇪 Spanish</br>
-  ⚡ Fun fact: I'm big fan of learning & coding Deep Learning
+  ⚡ Fun fact: I'm a big fan of learning & coding Deep Learning
 </p>  
 <p align='center'> 🏃An extraordinary, enthusiastic runner👊 </br></br> 🎧 <i>Spotify Playing</i> </br> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=romell.fudi&cover_image=true&theme=novatorem" title="conda"/> </br></br>
 <i>Loved Coding Please consider <a href="https://paypal.me/romellfudi/15">donating</a>  💸 to help it improve!</i></br>
