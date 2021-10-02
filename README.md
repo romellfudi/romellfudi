@@ -57,11 +57,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/romellfudi/dataset_currency/pull/4) in [romellfudi/dataset_currency](https://github.com/romellfudi/dataset_currency)
-2. 🎉 Merged PR [#6](https://github.com/romellfudi/ImageProcessing/pull/6) in [romellfudi/ImageProcessing](https://github.com/romellfudi/ImageProcessing)
-3. 🗣 Commented on [#37](https://github.com/romellfudi/VoIpUSSD/issues/37) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
-4. 🗣 Commented on [#23589](https://github.com/helm/charts/issues/23589) in [helm/charts](https://github.com/helm/charts)
-5. 🗣 Commented on [#17](https://github.com/bitnami/bitnami-docker-airflow/issues/17) in [bitnami/bitnami-docker-airflow](https://github.com/bitnami/bitnami-docker-airflow)
+1. ❌ Closed PR [#1](https://github.com/romellfudi/assets/pull/1) in [romellfudi/assets](https://github.com/romellfudi/assets)
+2. 💪 Opened PR [#1](https://github.com/romellfudi/assets/pull/1) in [romellfudi/assets](https://github.com/romellfudi/assets)
+3. 🎉 Merged PR [#4](https://github.com/romellfudi/dataset_currency/pull/4) in [romellfudi/dataset_currency](https://github.com/romellfudi/dataset_currency)
+4. 🎉 Merged PR [#6](https://github.com/romellfudi/ImageProcessing/pull/6) in [romellfudi/ImageProcessing](https://github.com/romellfudi/ImageProcessing)
+5. 🗣 Commented on [#37](https://github.com/romellfudi/VoIpUSSD/issues/37) in [romellfudi/VoIpUSSD](https://github.com/romellfudi/VoIpUSSD)
 <!--END_SECTION:activity-->
 ---
 
