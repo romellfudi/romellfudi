@@ -65,4 +65,4 @@
 <!--END_SECTION:activity-->
 ---
 
-<p align="center"> <img src="/charts/skyline.gif" alt="skyline">  </p>
+<p align="center"> <img src="/charts/2021.gif" alt="skyline">  </p>
