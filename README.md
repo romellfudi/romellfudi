@@ -40,7 +40,8 @@
 <!--   <a href='mailto:rdominguez@boosttag.com'>rdominguez@boosttag.com</a>, -->
   <a href='mailto:romllz489@gmail.com'>romllz489@gmail.com</a><br>
   🍱 My portfolio: <a href='http://portfolio.romellfudi.com/'>portfolio.romellfudi.com</a><br>
-  🔭 I’m currently working on <a href='https://www.globant.com/'>Globant</a></br>
+  📦 G dev: <a href='https://g.dev/romellfudi/'>g.dev/romellfudi</a><br>
+  🔭 I’m currently working for <a href='https://dmedmedia.disney.com/'>Disney's DMED</a> on <a href='https://www.globant.com/'>Globant</a></br>
   🌱 Nowadays, I’m learning DevOps & MLOps</br>
   🤔 I’m looking for help with social activities 😅</br>
   💬 Ask me in: 🇬🇧 English, 🇨🇳 Chinese, 🇵🇹 Portuguese & 🇵🇪 Spanish</br>
