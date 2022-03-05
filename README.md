@@ -67,3 +67,7 @@
 ---
 
 <p align="center"> <img src="/charts/2021.gif" alt="skyline">  </p>
+
+<p align="center"> <img src="/charts/2020.gif" alt="skyline">  </p>
+
+<p align="center"> <img src="/charts/2019.gif" alt="skyline">  </p>
