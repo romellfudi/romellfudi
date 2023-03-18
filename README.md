@@ -30,8 +30,8 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=romellfudi&show_icons=true&count_private=true&theme=dark" width="350" height="150"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romellfudi&layout=compact&theme=dark" width="350" height="150"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=romellfudi&show_icons=true&count_private=true&theme=dark&include_all_commits=true&show_icons=true" width="350" height="150"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romellfudi&layout=compact&theme=dark&card_width=350&langs_count=6&hide=jupyter%20notebook,javascript,html" width="350" height="150"></a>
 
 <p align='center'>
   📫 How to reach me: 
