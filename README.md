@@ -44,7 +44,7 @@
   🔭 I’m currently Developer at <a href='https://www.globant.com/'>@Globant</a> (working to <a href='https://dmedmedia.disney.com/'>Disney's DMED</a>) </br>
   🌱 Nowadays, I’m learning DevOps & MLOps</br>
   🤔 I’m looking for help with social activities 😅</br>
-  💬 Ask me in: 🇬🇧 English, 🇨🇳 Chinese, 🇵🇹 Portuguese & 🇵🇪 Spanish</br>
+  💬 Ask me in: 🇬🇧 English, 🇨🇳 Chinese, & 🇵🇪 Spanish</br>
   ⚡ Fun fact: I'm a big fan of learning & coding Deep Learning
 </p>  
 <p align='center'> 🏃An extraordinary, enthusiastic runner👊 </br></br> 🎧 <i>Spotify Playing</i> </br> <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=romell.fudi&cover_image=true&theme=novatorem" title="conda"/> </br></br>
