@@ -41,7 +41,7 @@
   <a href='mailto:romllz489@gmail.com'>romllz489@gmail.com</a><br>
   🍱 My portfolio: <a href='http://portfolio.romellfudi.com/'>portfolio.romellfudi.com</a><br>
   📦 G dev: <a href='https://g.dev/romellfudi/'>g.dev/romellfudi</a><br>
-  🔭 I’m currently wworking as Data Scientist at <a href='https://www.globant.com/'>@Globant</a></br>
+  🔭 I’m currently working as Data Scientist at <a href='https://www.globant.com/'>@Globant</a></br>
   🌱 Nowadays, I’m learning DevOps & MLOps</br>
   🤔 I’m looking for help with social activities 😅</br>
   💬 Ask me in: 🇬🇧 English, 🇨🇳 Chinese, & 🇵🇪 Spanish</br>
